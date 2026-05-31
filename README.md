@@ -4,7 +4,7 @@
 
 Public file extension: **`.bvc`**.
 
-## Package contents (v0.0.0 placeholder)
+## Package contents
 
 | Path | Description |
 |---|---|

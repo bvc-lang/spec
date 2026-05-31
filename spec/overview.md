@@ -33,4 +33,4 @@ One dialect per atom. Mixed keys = `E_BVC_DIALECT_MIX`.
 
 ## Status
 
-Placeholder `@bvc/spec@0.0.0` reserves npm scope. Full EBNF spec on `bvc-lang/spec` (GitHub org TBD).
+Published on npm as `@bvc-lang/spec`. Reference parser/linter: `@bvc-lang/cli`.
