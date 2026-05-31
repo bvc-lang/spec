@@ -2,7 +2,7 @@
 
 **BVC** (Basis · Vector · Goal) — typed atom format for AI-agent context and durable intent.
 
-Public extension: **`.bvc`**. Legacy read alias: **`.step`** (ioHasC / Work Graph internal).
+Public file extension: **`.bvc`**.
 
 ## Package contents (v0.0.0 placeholder)
 
@@ -14,12 +14,12 @@ Public extension: **`.bvc`**. Legacy read alias: **`.step`** (ioHasC / Work Grap
 
 ## Related packages (roadmap)
 
-- `@bvc/parser` — reference parser / linter (dual `.bvc` + `.step` read)
+- `@bvc/parser` — reference parser / linter
 - `@bvc-lang/cli` — `bvc lint`, `bvc format`
 
 ## Governance
 
-- Naming ADR: `.bvc` public canon (not ISO CAD `.step`)
+- Naming ADR: `.bvc` public canon (distinct from ISO 10303 STEP CAD exchange)
 - Multilingual ADR: EN canonical + registered dialects, no inline aliases
 
 ## Install
