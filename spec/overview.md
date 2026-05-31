@@ -1,7 +1,7 @@
 # BVC format overview (v0.0.0 draft)
 
 **Human name:** BVC — Basis · Vector · Goal  
-**Extension:** `.bvc` (public). Legacy read: `.bvc`.
+**Extension:** `.bvc` (public). Legacy read: `.step`.
 
 ## Atom shape
 
