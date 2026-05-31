@@ -19,8 +19,8 @@ Public file extension: **`.bvc`**.
 
 ## Governance
 
-- Naming ADR: `.bvc` public canon (distinct from ISO 10303 STEP CAD exchange)
-- Multilingual ADR: EN canonical + registered dialects, no inline aliases
+- Public file extension: **`.bvc`**
+- Multilingual: EN canonical + registered dialects, no inline aliases
 
 ## Install
 
