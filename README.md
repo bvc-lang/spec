@@ -35,7 +35,10 @@ import enDialect from '@bvc-lang/spec/dialects/en.json' with { type: 'json' };
 
 ## License
 
-Apache-2.0 (this package). Specification text CC BY 4.0 when published on `bvc-lang/spec`.
+- **Code** in this package: Apache-2.0 (`LICENSE`)
+- **Specification text** (`spec/`, format description in README): CC BY 4.0 (`LICENSE-SPEC`)
+
+Conformance: `npm test -- tests/bvcConformance.test.mjs` in Work Graph repo. See [PUBLIC_API.md](../../PUBLIC_API.md).
 
 ## Links
 
