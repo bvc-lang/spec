@@ -2,7 +2,7 @@
 
 Public specification repository for **BVC** (Basis · Vector · Goal).
 
-- npm: [`@bvc-lang/spec`](https://www.npmjs.com/package/@bvc-lang/spec) v0.0.5
+- npm: [`@bvc-lang/spec`](https://www.npmjs.com/package/@bvc-lang/spec) v0.0.6
 - Extension: `.bvc`
 
 ## Contents
