@@ -9,8 +9,8 @@ Public file extension: **`.bvc`**.
 | Path | Description |
 |---|---|
 | `dialects/en.json`, `dialects/ru.json` | Registered dialect registry (Detect-or-Declare) |
-| `schemas/bvc-atom-draft.v1.json` | LLM draft JSON schema (`lang`, BVC fields) |
-| `spec/overview.md` | Spec overview + links to ADR |
+| `schemas/bvc-atom-draft.v1.json` | LLM draft JSON schema (`lang`, BVC fields, optional `structuredEvidence`) |
+| `spec/overview.md` | Spec overview, dialect rules, optional sections and compatibility notes |
 
 ## Related packages (roadmap)
 
@@ -20,7 +20,9 @@ Public file extension: **`.bvc`**.
 ## Governance
 
 - Public file extension: **`.bvc`**
+- Legacy readable extension: **`.step`** (compatibility alias; new writes use `.bvc`)
 - Multilingual: EN canonical + registered dialects, no inline aliases
+- Evidence: prose `Evidence` / `Свидетельства` remains valid; `structuredEvidence[]` is an optional machine-readable companion in the draft schema
 
 ## Install
 
